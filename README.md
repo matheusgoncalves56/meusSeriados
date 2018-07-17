@@ -5,7 +5,7 @@ Criar meu terceiro aplicativo em React Native que exibe uma lista de seriados qu
 Nesse aplicativo pratiquei os seguintes tópicos: Criação de componente e consumo de api REST utilizando Axios.
 
 ## O APP
-![app](https://github.com/matheusgoncalves56/meusSeriados/blob/master/src/assets/app.png)
+![app]()
 
 ## Créditos
 Servidor Rest:
