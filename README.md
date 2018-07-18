@@ -9,7 +9,7 @@ Nesse aplicativo pratiquei os seguintes tópicos: Criação de componente e cons
 
 ## Créditos
 Servidor Rest:
-https://github.com/thiagobodruk/biblia
+https://github.com/matheusgoncalves56/meusSeriadosRest
 
 Desenvolvido por Matheus Gonçalves Oliveira - matheusgoncalves56@gmail.com
 
